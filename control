@@ -1,0 +1,9 @@
+Package: xyz.henryli17.beatsstudiobudscontrol
+Name: BeatsStudioBudsControl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change listening modes of the Beats Studio Buds from the Control Center on iOS <14.6.
+Maintainer: Henry Li
+Author: Henry Li
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
