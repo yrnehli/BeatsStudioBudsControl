@@ -1,7 +1,6 @@
 #import "Tweak.h"
 
 static NSString *prefsPath = @"/var/mobile/Library/Preferences/xyz.henryli17.beatsstudiobudscontrol.prefs.plist";
-BOOL enabled = NO;
 NSString *headphonesName = nil;
 BluetoothDevice *headphones = nil;
 
